@@ -12,7 +12,7 @@ function Hearder() {
                     <div className="border-box text-[#a7a9aa] text-[16px]  leading-[24px] py-[5px] items-center text-right">
                         <Link to="\" className="">
                             <FontAwesomeIcon icon={faPhoneVolume} />
-                            <span>Hotline</span>
+                            <span className="text-[15px]">Hotline:</span>
                             <span className="text-white">0389 670 921</span>
                         </Link>
                     </div>
